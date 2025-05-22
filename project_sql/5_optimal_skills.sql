@@ -1,4 +1,5 @@
 -- Identifies skills in high demand for Data Analyst roles
+
 WITH skills_demand AS (
     SELECT
         skills_dim.skill_id,
